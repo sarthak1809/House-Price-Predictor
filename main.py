@@ -52,8 +52,4 @@ def predict():
     return render_template('predict.html',result=result)
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-    app.run()
-=======
-    app.run()
->>>>>>> 6dbca5c8425413c19701ff933b5b1f46e8b32df1
+    app.run(debug=False)
