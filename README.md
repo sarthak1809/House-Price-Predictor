@@ -4,6 +4,8 @@
 This is a Machine Learning Project which predicts the Prices of Houses located in Delhi-NCR. Used Python Libraries like Numpy, Pandas, Sklearn, Pickle for Machine Learning Model.
 Web app is built using Flask framework. 
 
+Deployed Url : https://delhi-house-price-predictor.onrender.com/
+
 # Files and Folders Description
 Delhi_v2 : Contains the csv file of the raw dataset of Delhi-NCR.
 
